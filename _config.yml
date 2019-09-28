@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-primer
+title: Bebibuk
+description: A baby diary app to log your babies daily activities.
+github: 
+  is_project_page: false
