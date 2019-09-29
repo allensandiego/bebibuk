@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy
+### Privacy Policy
 
 I, Allen Sandiego, built the Bebibuk app as a Commercial app. This SERVICE is provided by me and is intended for use as is.
 
